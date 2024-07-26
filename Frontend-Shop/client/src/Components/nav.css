@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #fff;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  
+  .navbar-logo {
+    margin-right: auto;
+  }
+  
+  .logo {
+    height: 40px;
+    width: auto;
+  }
+  
+  .navbar-item {
+    transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+  }
+  
+  .navbar-item:hover {
+    color: #1890ff !important;
+    background-color: #f0f0f0;
+  }
+  
+  .navbar-item a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
